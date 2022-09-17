@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kaina\\.nuget\\packages\\": {}
+    "C:\\Users\\mirmo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaina\\Source\\Repos\\Health_charity\\Health_Advice_Charity\\Health_Advice_Charity.csproj",
+      "projectUniqueName": "C:\\Users\\mirmo\\Source\\Repos\\Health_charity\\Health_Advice_Charity\\Health_Advice_Charity.csproj",
       "projectName": "Health_Advice_Charity",
-      "projectPath": "C:\\Users\\kaina\\Source\\Repos\\Health_charity\\Health_Advice_Charity\\Health_Advice_Charity.csproj",
-      "packagesPath": "C:\\Users\\kaina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaina\\Source\\Repos\\Health_charity\\Health_Advice_Charity\\obj\\",
+      "projectPath": "C:\\Users\\mirmo\\Source\\Repos\\Health_charity\\Health_Advice_Charity\\Health_Advice_Charity.csproj",
+      "packagesPath": "C:\\Users\\mirmo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mirmo\\Source\\Repos\\Health_charity\\Health_Advice_Charity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kaina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mirmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -63,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
